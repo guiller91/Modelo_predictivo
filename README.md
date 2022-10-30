@@ -7,3 +7,5 @@
 - Crear un modelo con scikit-learn para predecir la columna tip.
 
 - Evaluar la precisión del modelo con las métricas de regresión.
+
+- Desplegar el modelo en Google Cloud Platform
